@@ -22,6 +22,7 @@ The project has been completed with all the functionality and features. There ar
 Testing and Results:
 I tested the application feature by feature. Firstly, I tested whether the socket could be connected correctly. Then I tested whether the client’s messages could get proper responses. I opened one server and several clients, and made clients communicate with the server at the same time. I also tested whether clients could talk to each other through the server. I also tested the activity reports and the keepalive messages by printing some specific characters.
 Results: The clients can connect to the server properly. The clients’ commands can get proper responses from the server, such as ‘who’, ‘open’, ‘to’ and etc. The activity reports and the keepalive messages work properly.
+
 Acknowledgements:
 1. https://www.tutorialspoint.com/cprogramming/c_strings.htm
 2. https://en.wikipedia.org/wiki/Keepalive
