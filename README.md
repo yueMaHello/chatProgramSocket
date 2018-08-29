@@ -1,4 +1,4 @@
-#Mini chat program using Socket#
+# Mini chat program using Socket
 
 A client-server program that utilizes TCP sockets for communication. Multithreading technique is also used during the implementation.
 Design Overview:
